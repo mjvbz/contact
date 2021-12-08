@@ -25,6 +25,7 @@ body{
   box-shadow: 10px 10px 10px rgba(0,0,0,0.05);
 }
 .wrapper header{
+  color: #fff;
   font-size: 22px;
   font-weight: 600;
   padding: 20px 30px;
