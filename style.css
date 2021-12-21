@@ -120,7 +120,7 @@ form .button-area{
   transition: background 0.3s ease;
 }
 .button-area button:hover{
-  background: #025ce3;
+  background: #7712de;
 }
 .button-area span{
   font-size: 17px;
